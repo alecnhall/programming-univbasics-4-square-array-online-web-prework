@@ -11,6 +11,4 @@ def square_array(array)
   return new_array
 end
 
-
-
 square_array(numbers)
